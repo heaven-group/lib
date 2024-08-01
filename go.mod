@@ -1,4 +1,4 @@
-module heaven/rosefinch/lib
+module github.com/heaven-group/lib
 
 go 1.22.3
 
