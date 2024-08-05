@@ -5,7 +5,7 @@ go 1.22.3
 require github.com/beego/beego/v2 v2.2.2
 
 require (
-	github.com/hashicorp/golang-lru v0.5.4 // indirect
-	github.com/shiena/ansicolor v0.0.0-20200904210342-c7312218db18 // indirect
+	github.com/hashicorp/golang-lru v1.0.2 // indirect
+	github.com/shiena/ansicolor v0.0.0-20230509054315-a9deabde6e02 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 )
